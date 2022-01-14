@@ -58,7 +58,7 @@ db.once('open', function () {
     // })
     User.update({ _id: "61e141c89f2e6f5834edb574" },
     {
-        ad: "Ceren",
+        ad: "Taner",
         soyad: "Unlu",
         dogum_tarihi: "11.02.1999",
         email: "cerennlu01@outlook.com"
